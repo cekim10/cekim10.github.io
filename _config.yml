@@ -128,10 +128,10 @@ content:
   
   - title: Extra Activity # Title for the section
     layout: text
-      content: | # this will include new lines to allow paragraphs
-        - Administrator of cluster server (10 machines) in DMlab., Kookmin University (March 2023 - February 2022)
-        - AWS Certified Cloud Practitioner (June 2020)
-        - Coding problem creator for the Coding Competency Certification, Kookmin University (2021)
+    content: | # this will include new lines to allow paragraphs
+      - Administrator of cluster server (10 machines) in DMlab., Kookmin University (March 2023 - February 2022)
+      - AWS Certified Cloud Practitioner (June 2020)
+      - Coding problem creator for the Coding Competency Certification, Kookmin University (2021)
   
 
 # Footer
