@@ -66,6 +66,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Advisor: Liting Hu and Chen Qian
           - Expected graduation date: 2028
+          - [**transcript**](https://pdf.ac/30aBPi)
       - layout: left
         title: Kookmin University
         caption: 2020 - 2022
