@@ -56,7 +56,7 @@ content:
     content: |
       **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, **ICDE 2024**
       
-      **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, UniCon: A Unified Star-Operation to Efficiently Find Connected Components on a Cluster of Commodity Hardware, PLOS ONE, 2022 [[**PDF**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277527)][[**source code**](https://github.com/UniCon2021/UniCon)]
+      **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, UniCon: A Unified Star-Operation to Efficiently Find Connected Components on a Cluster of Commodity Hardware, **PLOS ONE**, 2022 [[**PDF**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277527)][[**source code**](https://github.com/UniCon2021/UniCon)]
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
