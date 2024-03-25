@@ -129,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Computer Programming, Teaching Assistant, Kookmin University (Spring 2020)
 
-  - title: Teaching # Title for the section
+  - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       ACM EuroSys 2024 Travel Grant (April 2024)
