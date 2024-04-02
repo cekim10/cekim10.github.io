@@ -123,15 +123,15 @@ content:
       - layout: top-left
         title: CSE130 Principles of Computer Systems Design
         description: | 
-          - Principles of Computer Systems Design, Teaching Assistant, UC Santa Cruz (Spring 2024)
+          - Lead Teaching Assistant, UC Santa Cruz (Spring 2024)
       - layout: top-left
         title: Database systems
         description: | 
-          - Database systems, Teaching Assistant, Kookmin University (Spring 2021)
+          - Teaching Assistant, Kookmin University (Spring 2021)
       - layout: top-left
         title: Computer Programming
         description: | 
-          - Computer Programming, Instructor, Kookmin University (Spring 2020)
+          - Instructor, Kookmin University (Spring 2020)
 
   - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
