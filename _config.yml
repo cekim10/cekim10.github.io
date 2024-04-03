@@ -136,6 +136,8 @@ content:
   - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      IEEE ICDE 2024 Student Travel Awards (May 2024)
+      
       ACM EuroSys 2024 Travel Grant (April 2024)
   
   - title: Extra Activity # Title for the section
