@@ -48,13 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Chaeeun and I'm a 1st year PhD student at UC Santa Cruz. My research interests are Cloud and Edge Computing, Stream processing systems, Large scale graph mining, Distributed algorithm and Distributed systems.
+  Hi, my name is Chaeeun and I'm a 2nd year PhD student at UC Santa Cruz. My research interests are Cloud and Edge Computing, Stream processing systems, Large scale graph mining, Distributed algorithm and Distributed systems.
 
 content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, **ICDE 2024** (to appear)
+      **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, **ICDE 2024** [[**PDF**](https://kmudmlab.github.io/assets/papers/ICDE24_cekim.pdf)][[**source code**](https://github.com/cekim10/BTS)]
       
       **Chaeeun Kim**, Changhun Han, and Ha-Myung Park, UniCon: A Unified Star-Operation to Efficiently Find Connected Components on a Cluster of Commodity Hardware, **PLOS ONE**, 2022 [[**PDF**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277527)][[**source code**](https://github.com/UniCon2021/UniCon)]
         
