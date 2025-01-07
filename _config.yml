@@ -54,7 +54,7 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **[TMC]** Cheng-Wei Ching, Xin Chen, **Chaeeun Kim**, Tongze Wang, Dong Chen, Dilma Da Silva, and Liting Hu, AgileDART: An Agile and Scalable Edge Stream Processing Engine, IEEE Transactions on Mobile Computing (IEEE TMC), to appear 
+      **[TMC]** Cheng-Wei Ching, Xin Chen, **Chaeeun Kim**, Tongze Wang, Dong Chen, Dilma Da Silva, and Liting Hu, AgileDART: An Agile and Scalable Edge Stream Processing Engine, IEEE Transactions on Mobile Computing (IEEE TMC), 2025, to appear 
       
       **[ICDE'24] Chaeeun Kim**, Changhun Han, and Ha-Myung Park, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, **ICDE 2024** [[**PDF**](https://kmudmlab.github.io/assets/papers/ICDE24_cekim.pdf)][[**source code**](https://github.com/cekim10/BTS)]
       
