@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/IMG_6263.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Chaeeun and I'm a 2nd year PhD student at UC Santa Cruz. My research interests are Cloud and Edge Computing, Stream processing systems, Large scale graph mining, Distributed algorithm and Distributed systems.
 
