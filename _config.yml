@@ -54,7 +54,7 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **[MLMI'25]** **Chaeeun Kim**, Milind Varma Penumathsa, Sai Venkat Malreddy, Chen Qian, and Liting Hu, DNN-Adapt: Reinforcement Learning-based Hybrid Batching for Efficient DNN Serving, **The 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)**, To appear
+      **[MLMI'25]** **Chaeeun Kim**, Milind Varma Penumathsa, Sai Venkat Malreddy, Chen Qian, and Liting Hu, Serving Wild DNN Workloads: Hybrid Request Batching Based on Reinforcement Learning, **The 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)**, To appear
       
       **[TMC]** Cheng-Wei Ching, Xin Chen, **Chaeeun Kim**, Tongze Wang, Dong Chen, Dilma Da Silva, and Liting Hu, AgileDART: An Agile and Scalable Edge Stream Processing Engine, **IEEE Transactions on Mobile Computing (IEEE TMC)**, 2025, [[**PDF**](https://arxiv.org/pdf/2407.14953)]
       
