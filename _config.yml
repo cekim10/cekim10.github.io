@@ -54,6 +54,8 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **[AIOTC'25]** **Chaeeun Kim**, William Self, Nick Wang, Daniel Wen, Chen Qian, and Liting Hu, Creating Personalized Medicine ML Models Using Distributed Learning Via Ray, **2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIOTC)**, To appear
+    
       **[MLMI'25]** **Chaeeun Kim**, Milind Varma Penumathsa, Sai Venkat Malreddy, Chen Qian, and Liting Hu, Serving Wild DNN Workloads: Hybrid Request Batching Based on Reinforcement Learning, **The 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)**, To appear (Best In-Session Presentation Award)
       
       **[TMC]** Cheng-Wei Ching, Xin Chen, **Chaeeun Kim**, Tongze Wang, Dong Chen, Dilma Da Silva, and Liting Hu, AgileDART: An Agile and Scalable Edge Stream Processing Engine, **IEEE Transactions on Mobile Computing (IEEE TMC)**, 2025, [[**PDF**](https://arxiv.org/pdf/2407.14953)]
