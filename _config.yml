@@ -128,13 +128,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
+        title: CSE13S Computer Systems and C Programming
+        description: | 
+          - Teaching Assistant, UC Santa Cruz (Winter 2025, Winter 2026)
+      - layout: top-left
         title: CSE80N Introduction to Networking and the Internet
         description: | 
           - Teaching Assistant, UC Santa Cruz (Fall 2025)
-      - layout: top-left
-        title: CSE13S Computer Systems and C Programming
-        description: | 
-          - Teaching Assistant, UC Santa Cruz (Winter 2025)
       - layout: top-left
         title: CSE130 Principles of Computer Systems Design
         description: | 
