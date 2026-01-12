@@ -54,6 +54,8 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **[ICCIIA'26]** **Chaeeun Kim**, Sallar Farokhia, Jason Macka, Ankur Ahira, and Liting Hu, Real-Time Traffic Data Aggregation for Intelligent Transportation Systems, **2026 2nd International Conference on Computational Intelligence and Image Analysis (ICCIIA 2026)**, To appear
+      
       **[AIOTC'25]** **Chaeeun Kim**, William Self, Nick Wang, Daniel Wen, Chen Qian, and Liting Hu, Creating Personalized Medicine ML Models Using Distributed Learning Via Ray, **2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIOTC)** [[**PDF**](https://ieeexplore.ieee.org/abstract/document/11198609)]
     
       **[MLMI'25]** **Chaeeun Kim**, Milind Varma Penumathsa, Sai Venkat Malreddy, Chen Qian, and Liting Hu, Serving Wild DNN Workloads: Hybrid Request Batching Based on Reinforcement Learning, **The 8th International Conference on Machine Learning and Machine Intelligence (MLMI 2025)**, To appear (Best In-Session Presentation Award)
