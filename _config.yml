@@ -128,6 +128,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
+        title: CSE232B Stream Processing and Machine Learning Systems Design
+        description: | 
+          - Teaching Assistant, UC Santa Cruz (Spring 2026)
+      - layout: top-left
         title: CSE13S Computer Systems and C Programming
         description: | 
           - Teaching Assistant, UC Santa Cruz (Winter 2025, Winter 2026)
