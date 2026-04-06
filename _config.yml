@@ -125,37 +125,24 @@ content:
           - Advisor: Chen Li
 
   - title: Teaching # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: top-left
-        title: CSE232B Stream Processing and Machine Learning Systems Design
-        description: | 
-          - Teaching Assistant, UC Santa Cruz (Spring 2026)
-      - layout: top-left
-        title: CSE13S Computer Systems and C Programming
-        description: | 
-          - Teaching Assistant, UC Santa Cruz (Winter 2025, Winter 2026)
-      - layout: top-left
-        title: CSE80N Introduction to Networking and the Internet
-        description: | 
-          - Teaching Assistant, UC Santa Cruz (Fall 2025)
-      - layout: top-left
-        title: CSE130 Principles of Computer Systems Design
-        description: | 
-          - Lead Teaching Assistant, UC Santa Cruz (Spring 2024)
-      - layout: top-left
-        title: Database systems
-        description: | 
-          - Teaching Assistant, Kookmin University (Spring 2021)
-      - layout: top-left
-        title: Computer Programming
-        description: | 
-          - Instructor, Kookmin University (Spring 2020)
+      CSE232B Stream Processing and Machine Learning Systems Design, Teaching Assistant, UC Santa Cruz (Spring 2026)
+      
+      CSE13S Computer Systems and C Programming, Teaching Assistant, UC Santa Cruz (Winter 2025, Winter 2026)
+      
+      CSE80N Introduction to Networking and the Internet, Teaching Assistant, UC Santa Cruz (Fall 2025)
+      
+      CSE130 Principles of Computer Systems Design, Lead Teaching Assistant, UC Santa Cruz (Spring 2024)
+      
+      Database systems, Teaching Assistant, Kookmin University (Spring 2021)
+      
+      Computer Programming, Instructor, Kookmin University (Spring 2020)
 
   - title: Professional Services # Title for the section
-  layout: text
-  content: |
-    Mathematical Methods of Operations Research (2026)
+    layout: text
+    content: |
+      Mathematical Methods of Operations Research (2026)
   
   - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
