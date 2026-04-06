@@ -152,6 +152,11 @@ content:
         description: | 
           - Instructor, Kookmin University (Spring 2020)
 
+  - title: Professional Services # Title for the section
+  layout: text
+  content: |
+    Mathematical Methods of Operations Research (2026)
+  
   - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
     content: |
