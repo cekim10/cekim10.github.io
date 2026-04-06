@@ -126,7 +126,7 @@ content:
 
   - title: Teaching # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: |
       CSE232B Stream Processing and Machine Learning Systems Design, Teaching Assistant, UC Santa Cruz (Spring 2026)
       
       CSE13S Computer Systems and C Programming, Teaching Assistant, UC Santa Cruz (Winter 2025, Winter 2026)
@@ -142,7 +142,7 @@ content:
   - title: Professional Services # Title for the section
     layout: text
     content: |
-      Mathematical Methods of Operations Research (2026)
+      Mathematical Methods of Operations Research, Reviewer (2026)
   
   - title: Selected Awards and Grants # Title for the section
     layout: text # Type of content section (list/text)
