@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chaeeun Kim
-title: PhD student
+title: PhD Candidate
 email: ckim151@ucsc.edu
 website: http://chaeeun.me
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/IMG_6263.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Chaeeun and I'm a third year PhD student at UC Santa Cruz. My research interests include LLM serving systems, as well as Cloud and Edge Computing, Stream Processing Systems, Large-Scale Graph Mining, Distributed Algorithms, and Distributed Systems.
+  Hi, my name is Chaeeun, and I am a third-year PhD candidate at the University of California, Santa Cruz. My research interests lie in systems for AI, particularly LLM, agentic AI, and diffusion model serving systems. My current research focuses on fault-tolerant KV cache protection and recovery for long-context and agentic LLM inference. I am also interested in distributed systems, cloud computing, edge computing, and large-scale data processing systems.
 
 content:
   - title: Publication # Title for the section
