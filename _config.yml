@@ -166,7 +166,7 @@ content:
   - title: Extra Activity # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Science Internship Program Mentor, UCSC (Summer 2026)
+      Science Internship Program Mentor, UCSC (Summer 2026) — *Mentored high school students; our research paper, “SPADE: Speculative Parallel Asynchronous Decoding on Multi-Edge,” was accepted to MIT URTC 2026 (to appear).*"
       
       Administrator of cluster server (10 machines) in DMlab., Kookmin University (March 2023 - February 2022)
       
